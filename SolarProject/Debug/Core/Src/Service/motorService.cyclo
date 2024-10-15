@@ -1,0 +1,8 @@
+../Core/Src/Service/motorService.c:17:6:MotorServiceMotorInit	1
+../Core/Src/Service/motorService.c:39:6:MotorServiceMotorHoming	5
+../Core/Src/Service/motorService.c:78:6:MotorServiceMotorStop	1
+../Core/Src/Service/motorService.c:85:6:MotorServiceMotorControl	5
+../Core/Src/Service/motorService.c:117:6:MotorServiceAutoMode	18
+../Core/Src/Service/motorService.c:186:6:MotorServiceManualMode	13
+../Core/Src/Service/motorService.c:249:6:MotorServiceVerticalCurrentPosition	2
+../Core/Src/Service/motorService.c:261:6:MotorServiceHorizontalCurrentPosition	2

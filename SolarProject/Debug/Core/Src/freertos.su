@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:89:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:103:6:MX_FREERTOS_Init	200	static
+../Core/Src/freertos.c:176:6:StartRxUART	16	static
+../Core/Src/freertos.c:198:6:StartADC2Resistance	32	static
+../Core/Src/freertos.c:221:6:StartMotorControl	32	static
+../Core/Src/freertos.c:255:6:StartLimiterHandling	16	static
+../Core/Src/freertos.c:279:6:StartTask05	16	static
